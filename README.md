@@ -1,150 +1,146 @@
-# \# TP1 - Gestión de la Configuración y Python
+\# TP1 - Gestión de la Configuración y Python
 
-# 
 
-# \## Descripción
 
-# 
+\## Descripción
 
-# Este repositorio contiene el desarrollo del Trabajo Práctico N°1 de la materia Ingeniería de Software II.
 
-# 
 
-# El objetivo es aplicar conceptos de:
+Este repositorio contiene el desarrollo del Trabajo Práctico N°1 de la materia Ingeniería de Software II.
 
-# 
 
-# \* Control de versiones con Git
 
-# \* Uso de GitHub
+El objetivo es aplicar conceptos de:
 
-# \* Programación en Python
 
-# 
 
-# \---
+\* Control de versiones con Git
 
-# 
+\* Uso de GitHub
 
-# \## Estructura del Proyecto
+\* Programación en Python
 
-# 
 
-# \### Carpetas principales
 
-# 
+\---
 
-# \* \*\*src\*\*: código fuente en Python
 
-# \* \*\*doc\*\*: documentación
 
-# \* \*\*bin\*\*: archivos ejecutables
+\## Estructura del Proyecto
 
-# \* \*\*script\*\*: scripts auxiliares
 
-# 
 
-# \---
+\### Carpetas principales
 
-# 
 
-# \## Instalación
 
-# 
+\* **src**: código fuente en Python
 
-# \### Requisitos
+\* **doc**: documentación
 
-# 
+\* **bin**: archivos ejecutables
 
-# \* Python 3
+\* **script**: scripts auxiliares
 
-# \* Git
 
-# \* Pip
 
-# 
+\---
 
-# \### Pasos
 
-# 
 
-# 1\. Clonar el repositorio
+\## Instalación
 
-# 2\. Ejecutar los programas en Python
 
-# 
 
-# \---
+\### Requisitos
 
-# 
 
-# \## Ejecución
 
-# 
+\* Python 3
 
-# Para ejecutar el programa de números primos:
+\* Git
 
-# 
+\* Pip
 
-# ```bash
 
-# python3 src/primos.py
 
-# ```
+\### Pasos
 
-# 
 
-# \---
 
-# 
+1\. Clonar el repositorio
 
-# \## Ejemplo de salida
+2\. Ejecutar los programas en Python
 
-# 
 
-# !\[Ejemplo de ejecución](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Prime\_number\_spiral.svg/512px-Prime\_number\_spiral.svg.png)
 
-# 
+\---
 
-# \---
 
-# 
 
-# \## Referencias
+\## Ejecución
 
-# 
 
-# \* \[Python oficial](https://www.python.org/)
 
-# \* \[Documentación de Git](https://git-scm.com/)
+Para ejecutar el programa de números primos:
 
-# 
 
-# \---
 
-# 
+python3 src/primos.py
 
-# \## Funcionalidades
 
-# 
 
-# \* Cálculo de números primos
+\---
 
-# \* Organización de proyecto en carpetas
 
-# \* Uso de control de versiones
 
-# 
+\## Ejemplo de salida
 
-# \---
 
-# 
 
-# \## Autor
+!\[Ejemplo de ejecución](doc/ejemplo.png)
 
-# 
 
-# \* Marco Weiss
+
+\---
+
+
+
+\## Referencias
+
+
+
+\* \[Python oficial](https://www.python.org/)
+
+\* \[Documentación de Git](https://git-scm.com/)
+
+
+
+\---
+
+
+
+\## Funcionalidades
+
+
+
+\* Cálculo de números primos
+
+\* Organización de proyecto en carpetas
+
+\* Uso de control de versiones
+
+
+
+\---
+
+
+
+\## Autor
+
+
+
+\* Marco Weiss
 
 
 
