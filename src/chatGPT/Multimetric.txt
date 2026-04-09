@@ -1,0 +1,28 @@
+Resultados de Multimetric:
+
+Se ejecutó la herramienta multimetric sobre el archivo rpn.py, obteniendo los siguientes resultados:
+
+comment_ratio: 34.264%
+cyclomatic_complexity: 31
+halstead_effort: 305067.186
+halstead_timerequired: 16948.177
+halstead_bugprop: 1.788
+maintainability_index: 46.318
+
+Análisis de resultados:
+
+Comment Ratio:
+Se incrementó la cantidad de comentarios hasta alcanzar un valor cercano al 33%, cumpliendo con lo solicitado.
+
+Halstead Effort / Time:
+El esfuerzo estimado es elevado debido a la cantidad de funcionalidades implementadas en el programa.
+
+Halstead Bugprop:
+La estimación de errores es baja y coincide con los pocos errores detectados durante las pruebas.
+
+Complejidad (McCabe):
+La complejidad es moderada debido a la cantidad de operaciones soportadas.
+Se podría reducir mediante modularización del código.
+
+Maintainability Index:
+El valor indica una mantenibilidad media, la cual fue mejorada mediante la incorporación de comentarios.
